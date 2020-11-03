@@ -19,6 +19,8 @@
 				<Item Name="Show Diagram Argument--cluster.ctl" Type="VI" URL="../Show Diagram Argument--cluster.ctl"/>
 				<Item Name="Start helper loop Argument--cluster.ctl" Type="VI" URL="../Start helper loop Argument--cluster.ctl"/>
 				<Item Name="stop helper loop Argument--cluster.ctl" Type="VI" URL="../stop helper loop Argument--cluster.ctl"/>
+				<Item Name="start acquiere Argument--cluster.ctl" Type="VI" URL="../start acquiere Argument--cluster.ctl"/>
+				<Item Name="stop acquiere Argument--cluster.ctl" Type="VI" URL="../stop acquiere Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -34,6 +36,8 @@
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="Start helper loop.vi" Type="VI" URL="../Start helper loop.vi"/>
 			<Item Name="stop helper loop.vi" Type="VI" URL="../stop helper loop.vi"/>
+			<Item Name="start acquiere.vi" Type="VI" URL="../start acquiere.vi"/>
+			<Item Name="stop acquiere.vi" Type="VI" URL="../stop acquiere.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
